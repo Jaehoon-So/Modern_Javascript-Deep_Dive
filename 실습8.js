@@ -22,6 +22,7 @@ do{
 }while(count < 3);
 
 /** 08-20 */
+
 foo: {
     console.log(1);
     break foo;
