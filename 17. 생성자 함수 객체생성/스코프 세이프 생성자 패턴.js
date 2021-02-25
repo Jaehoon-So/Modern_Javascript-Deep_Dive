@@ -16,5 +16,5 @@
     }
  }
  const circle = Circle(5);
- console.log(circle.getDiameter());
+ console.log(circle.getDiameter()); // 10
  
